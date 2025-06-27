@@ -8,7 +8,7 @@
 sudo ufw status
 sudo ufw enable
 ```
-> 🔍 ![linux_ufw_enabled](screenshots/linux_ufw_enabled.png)
+> 🔍 [linux_ufw_enabled](screenshots/linux_ufw_enabled.png)
 
 ---
 
